@@ -1,5 +1,3 @@
-# CPRE 4890 Go-Back-N Template
-
 ## Project Structure
 
 ```text
